@@ -3,7 +3,7 @@ This page was automatically generated, and will feature additional content soon
 
 ### Code of Conduct
 By participating in this project through the Discord server, the Wiki, GitHub code repositories
-and issue trackers, etc., you agree to abide by the group's [Code of Conduct](/conduct.html)
+and issue trackers, etc., you agree to abide by the group's [Code of Conduct](/conduct.md)
 
 ### Authors and Contributors
 A blurb about the origins of X-Midas belongs here
