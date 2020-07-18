@@ -1,3 +1,3 @@
 # X-Midas Users Group Web Page
 
-This is the future home of the web page for the X-Midas Users Group
+This is the web page for [xmidas.org](https://xmidas.org)
